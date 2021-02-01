@@ -25,3 +25,17 @@
 **Contact Section :**
 
 <img src="UI/5.png" width=800>
+
+# Features :
+
+1. Developed purely with HTML, SASS and CSS
+2. Subtle animations without using JS
+3. Major transition effects with only CSS
+4. Fully responsive without using jQuery
+
+# Learning Outcome :
+
+* Understood the core concepts of frontend development  
+* Learnt many tricks for a responsive-development using only CSS
+* Got to know a lot about npm and preprocessors
+* Acquired a lot of knowledge on SASS and SCSS
