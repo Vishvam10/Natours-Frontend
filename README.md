@@ -38,4 +38,8 @@
 * Understood the core concepts of frontend development  
 * Learnt many tricks for a responsive-development using only CSS
 * Got to know a lot about npm and preprocessors
-* Acquired a lot of knowledge on SASS and SCSS
+* Acquired a lot of knowledge on SASS and SCSS which included things like :
+  * SASS and CSS Variables
+  * @mixin and @includes
+  * @use, @import
+  * Interpolations, etc
